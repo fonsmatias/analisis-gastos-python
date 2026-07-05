@@ -56,7 +56,7 @@ Example:
     "año": 2026,
     "mes": 6,
     "dia": 24,
-    "concepto": "morf",
+    "concepto": "eat",
     "detalle": "bread",
     "gasto": 4.5
 }
